@@ -45,7 +45,8 @@ a:active {
   color: var(--oc-green-5); }
 
 #json {
-  white-space: nowrap; }
+  white-space: pre-wrap;
+  word-wrap: break-word; }
 
 #json:before {
   content: "{"; }
