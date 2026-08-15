@@ -1,7 +1,7 @@
-title: "яᴏɢᴜᴇ ᴅꜱɢиʀ"
+title: "яᴅ"
 description: " | Links and contacts for quick access"
 baseurl: ""  # Empty since it's a GitHub Pages root repo
-url: "https://roguedsgnr.github.io/"
+url: "https://0x5244.github.io/"
 
 # Theme Configuration
 remote_theme: piazzai/hacked-jekyll
@@ -25,11 +25,10 @@ plugins:
 
 # SEO and Social Media Meta
 social:
-  name: "ROGUEDSGNR"
+  name: "яᴅ"
   links:
-    - "https://linkedin.com/in/tiagcoimbra"
-    - "https://github.com/ROGUEDSGNR"
-    - "https://roguedsgnr.myportfolio.com/"
+    - "https://linkedin.com/in/0x5244"
+    - "https://github.com/0x5244"
 
 # Default Social Share Image (Open Graph & Twitter)
 defaults:
